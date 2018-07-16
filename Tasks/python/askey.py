@@ -1,0 +1,5 @@
+def askey():
+    //Your code goes here
+
+if __name__=="__main__":
+    askey()
